@@ -29,3 +29,8 @@ Goals -
         - Transformers
         - Bert Ernie GPT 2
         - LLM
+
+## Decision Trees and Random Forest
+
+Implemented a simple `DecisionTreeClassifier` and `RandomForestClassifier` from scratch in the `algos` package.
+Run `python demo_decision_forest.py` to see a demo on the Iris dataset (requires scikit-learn for the dataset and metrics).
